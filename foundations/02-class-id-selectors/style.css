@@ -1,0 +1,17 @@
+.bruv {
+    background-color:  rgb(255, 192, 203);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#tank {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+
+}
+.dad {
+    font-size: 24px;
+}
+#dumb {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
